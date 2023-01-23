@@ -2,7 +2,7 @@
 Create a dApp for the artwork token (ERC-721).
 
 
-The instructions for this activity are divided into the following subsections:
+Here are the instructions divided into these subsections
 
 1. Deploy the Contract
 
